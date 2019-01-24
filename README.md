@@ -4,6 +4,8 @@
 
 The Monzo User Slack is a place where Monzo users should feel welcome and included to share their opinions. And while it should be used for differing opinions, we also want to ensure people always feel safe 👍
 
+Please be aware that the mods are volunteering their own time to try and ensure that things run smoothly, so please be nice to us. It may take some time for us to respond/resolve things but we'll get on it as soon as we can 🤓
+
 The purpose of this document is to outline the community values - what we do, and don’t, stand for - and the measures we take to protect them.
 
 # Inclusivity 🙌
