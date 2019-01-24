@@ -78,4 +78,4 @@ If you experience abuse, harassment, discrimination, or feel unsafe, let a moder
 
 Anything you share with moderators will be held in confidence. So please don’t hesitate in coming forward.
 
-Thanks for helping keep the Community a fun place to get involved. And happy posting! 💖
+Thanks for helping keep the Community a fun place to get involved. And happy chatting! 💖
