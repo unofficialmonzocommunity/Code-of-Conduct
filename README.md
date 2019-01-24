@@ -20,7 +20,7 @@ A note on politics: Political discussions are not banned, but we don't tolerate 
 
 # Our Shared Values ☀️
 
-# You agree that:
+- You agree that:
 
 We are collectively and individually committed to safety and inclusivity.
 We have zero tolerance for abuse, harassment, or discrimination.
@@ -29,13 +29,13 @@ We refrain from using language that can be considered oppressive (systemically o
 We avoid using offensive topics as a form of humor.
 We do not suggest or speculate on ways of breaking the law, or the security measures of Monzo and other banks.
 
-# We actively work towards:
+- We actively work towards:
 
 Being a safe community.
 Cultivating a network of support and encouragement for each other.
 Encouraging responsible and varied forms of expression.
 
-# We condemn:
+- We condemn:
 
 Stalking or publishing private information (‘doxxing)
 Threats of harm or harassment.
