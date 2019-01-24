@@ -17,7 +17,7 @@ We want everyone to feel included in our community. In particular, nobody should
 * Age
 * Religion
 
-A note on politics: Political discussions are not banned, but we don't tolerate using slack personal soapbox to air political opinions. As always, our moderators have the final say on this.
+A note on politics: Political discussions are not banned, but we don't tolerate using slack as a personal soapbox to air political opinions. As always, our moderators have the final say on this.
 
 # Our Shared Values ☀️
 
