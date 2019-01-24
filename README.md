@@ -47,15 +47,15 @@ A note on politics: Political discussions are not banned, but we don't tolerate 
 
 # Consequences for breaking the rules 🚨
 
-We take a strong stance on enforcing our community guidelines. In severe cases, such as posting content that we have zero tolerance on, we will immediately ban and remove the user from our community.
+We take a strong stance on enforcing our community guidelines. In severe cases, such as posting content that we have zero tolerance on, we will immediately ban and remove the user from Slack.
 
 For other violations, we’ll follow these steps -
 
 First offence: we’ll issue a formal warning, through the community or a Slack Direct Message. Whenever a warning is issued, we will refer back to this document and indicate the part of the Code of Conduct we feel has been breached.
 
-Second offence: a further warning will be issued, in stronger terms. Offenders will be reminded of the consequences of continuing to break the Code of Conduct - which can include suspension or removal from the Community.
+Second offence: a further warning will be issued, in stronger terms. Offenders will be reminded of the consequences of continuing to break the Code of Conduct - which can include suspension or removal from Slack.
 
-Third offence: we will take an action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or outright removal from the Slack channel (for extremely serious situations).
+Third offence: we will take an action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or outright removal from Slack (for extremely serious situations).
 
 For future offences, if - following a suspension - the user returns and continues to be disruptive and act contrary to the above agreements, a full removal will be implemented without warning.
 
