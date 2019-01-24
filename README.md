@@ -1,4 +1,4 @@
-# Code-of-Conduct
+# Code of Conduct
 Slack Code of Conduct
 
 This policy is a "living" document, and subject to change in the future. Please get in touch (see 'Alerting us' below) if you’d like to suggest any changes.
@@ -7,7 +7,7 @@ The Monzo Community Forum and Developers Slack are places where Monzo users shou
 
 The purpose of this document is to outline our community values - what we do, and don’t, stand for - and the measures we take to protect them.
 
-Inclusivity 🙌
+# Inclusivity 🙌
 We want everyone to feel included in our community. In particular, nobody should ever feel excluded on the basis of their:
 
 Gender, gender identity, or gender expression
@@ -19,8 +19,9 @@ Age
 Religion
 A note on politics: Political discussions are not banned, but we don't tolerate using our forum as a personal soapbox to air political opinions. As always, our moderators have the final say on this.
 
-Our Shared Values ☀️
-You agree that:
+# Our Shared Values ☀️
+
+# You agree that:
 
 We are collectively and individually committed to safety and inclusivity.
 We have zero tolerance for abuse, harassment, or discrimination.
@@ -28,46 +29,22 @@ We respect people’s boundaries and identities.
 We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
 We avoid using offensive topics as a form of humor.
 We do not suggest or speculate on ways of breaking the law, or the security measures of Monzo and other banks.
-We actively work towards:
+
+# We actively work towards:
 
 Being a safe community.
 Cultivating a network of support and encouragement for each other.
 Encouraging responsible and varied forms of expression.
-We condemn:
+
+# We condemn:
 
 Stalking or publishing private information (‘doxxing)
 Threats of harm or harassment.
 Anything that compromises people’s safety.
-Forum Etiquette 📝
-We avoid:
 
-Name-calling.
-Ad hominem attacks (criticising a poster personally, not their post).
-Responding to a post’s tone instead of its actual content.
-Replying in a confrontational manner when we see a post we think needs attention (use the flag feature to report it instead).
-Deliberately derailing threads, or other forms of trolling.
-Posting low-value content that doesn’t add to the discussion.
-Repeatedly making the same arguments, instead of moving on. Threads that end up going in circles will be locked.
-Creating multiple accounts (aka 'sockpuppets').
-We’re polite and respectful:
 
-Don’t post anything that a reasonable person would consider offensive, abusive, or hate speech.
-Don’t post anything obscene or sexually explicit.
-Don’t harass or grief anyone, impersonate people, or expose their private information.
-Don’t post spam or otherwise vandalize the forum.
-It’s best to avoid even the appearance of any of these things. If you’re unsure, ask yourself how you would feel if your post was shown to your boss, family, or friends. When in doubt, avoid it.
+# Consequences for breaking the rules 🚨
 
-When we’re called out, we:
-
-Listen without interruption.
-Believe what the person is saying & do not attempt to disqualify what they have to say.
-Ask for tips and help toward avoiding reoffending in the future.
-Apologise and ask forgiveness.
-If the above is ever unclear, final decisions are at the discretion of the moderation team (Community Leaders and staff, with staff having the ultimate say). They will use their best judgement to determine what is in the best interest of maintaining an inclusive community. Just because something is not explicitly prohibited in this document, that doesn’t make it automatically ok.
-
-So please respect what they decide, and avoid nit-picking the rules if you disagree.
-
-Consequences for breaking the rules 🚨
 We take a strong stance on enforcing our community guidelines. In severe cases, such as posting content that we have zero tolerance on, we will immediately ban and remove the user from our community.
 
 For other violations, we’ll follow these steps -
@@ -82,21 +59,20 @@ For future offences, if - following a suspension - the user returns and continue
 
 tldr; users receive two warnings (the second stronger), then an appropriate action, and following offences will result in removal.
 
-Alerting us 🙋
-If you see a community post which breaches these guidelines, please flag it to make one of the team aware. Here’s how -
+# Alerting us 🙋
 
-Click the three dots (...) on the post. threedots
-Tap the flag. flag
-Select a reason, and click Flag Post. flagpostoptions
-Posts that are flagged by several members of the community are automatically hidden until the author or a member of the team has reviewed it.
+If you see a post which breaches these guidelines, please flag it to make one of the team aware. Here’s how -
 
-On Slack, you can alert us by writing @mods in the chat.
+You can alert us by writing @mods in the chat.
 
 If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know as soon as possible.
 
-Richard Cook (richardcook@monzo.com)
-Naji Esiri (naji@monzo.com)
-Simon Balmain (simonb@monzo.com)
+James Sherlock - @James Sherlock
+Cameron Chalmers - @Cameron
+James Billingham - @James Billingham
+Tom - @Tom M 
+Mat - @Mathew 
+
 Anything you share with moderators will be held in confidence. So please don’t hesitate in coming forward.
 
 Thanks for helping keep the Community a fun place to get involved. And happy posting! 💖
