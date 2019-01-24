@@ -17,7 +17,7 @@ We want everyone to feel included in our community. In particular, nobody should
 * Age
 * Religion
 
-A note on politics: Political discussions are not banned, but we don't tolerate using our forum as a personal soapbox to air political opinions. As always, our moderators have the final say on this.
+A note on politics: Political discussions are not banned, but we don't tolerate using slack personal soapbox to air political opinions. As always, our moderators have the final say on this.
 
 # Our Shared Values ☀️
 
@@ -53,7 +53,7 @@ First offence: we’ll issue a formal warning, through the community or a Slack 
 
 Second offence: a further warning will be issued, in stronger terms. Offenders will be reminded of the consequences of continuing to break the Code of Conduct - which can include suspension or removal from the Community.
 
-Third offence: we will take an action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or outright removal from the Community forum and Slack channel (for extremely serious situations).
+Third offence: we will take an action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or outright removal from the Slack channel (for extremely serious situations).
 
 For future offences, if - following a suspension - the user returns and continues to be disruptive and act contrary to the above agreements, a full removal will be implemented without warning.
 
