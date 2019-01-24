@@ -1,5 +1,5 @@
 # Code of Conduct
-###Slack Code of Conduct
+### Slack Code of Conduct
 
 
 The Monzo User Slack is a place where Monzo users should feel welcome and included to share their opinions. And while it should be used for differing opinions, we also want to ensure people always feel safe 👍
