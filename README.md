@@ -10,7 +10,7 @@ The purpose of this document is to outline the community values - what we do, an
 
 This community is in no way endorsed by Monzo. The use of the Monzo flair is only to be used by Monzo staff (should they choose to be part of the community) and is not to be used to mislead other members of the community in any way.
 
-The monzo staff that you see in our unofficial slack should not be assumed to be acting in an official capacity and while they're obviously happy to chat and debug stuff when they have time, if you need Monzo's help with something, depending on what it is, the official forum (https://community.monzo.com/), in-app chat or getting in touch with them directly by email or phone are the only officially supported ways to do so. Please be respectful of individuals' time and the fact that they are not there to represent Monzo
+The Monzo staff that you see in our unofficial slack should not be assumed to be acting in an official capacity and while they're obviously happy to chat and debug stuff when they have time, if you need Monzo's help with something, depending on what it is, the official forum (https://community.monzo.com/), in-app chat or getting in touch with Monzo directly by email or phone are the only officially supported ways to do so. Please be respectful of individuals' time and the fact that they are not there to represent Monzo!
 
 # Inclusivity 🙌
 We want everyone to feel included in our community. In particular, nobody should ever feel excluded on the basis of their:
@@ -59,7 +59,7 @@ First offence: we’ll issue a formal warning, through the community or a Slack 
 
 Second offence: a further warning will be issued, in stronger terms. Offenders will be reminded of the consequences of continuing to break the Code of Conduct - which can include suspension or removal from Slack.
 
-Third offence: we will take an action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or outright removal from Slack (for extremely serious situations).
+Third offence: we will take action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or outright removal from Slack (for extremely serious situations).
 
 For future offences, if - following a suspension - the user returns and continues to be disruptive and act contrary to the above agreements, a full removal will be implemented without warning.
 
