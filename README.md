@@ -59,7 +59,7 @@ For future offences, if - following a suspension - the user returns and continue
 
 tldr; users receive two warnings (the second stronger), then an appropriate action, and following offences will result in removal.
 
-# Alerting us 🙋
+# Alerting us 🙋🙋‍♂️
 
 If you see a post which breaches these guidelines, please flag it to make one of the team aware. Here’s how -
 
