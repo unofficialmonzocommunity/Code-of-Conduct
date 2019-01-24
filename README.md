@@ -10,6 +10,8 @@ The purpose of this document is to outline the community values - what we do, an
 
 This community is in no way endorsed by Monzo. The use of the Monzo flair is only to be used by Monzo staff (should they choose to be part of the community) and is not to be used to mislead other members of the community in any way.
 
+The monzo staff that you see in our unofficial slack should not be assumed to be acting in an official capacity and while they're obviously happy to chat and debug stuff when they have time, if you need Monzo's help with something, depending on what it is, the official forum (https://community.monzo.com/), in-app chat or getting in touch with them directly by email or phone are the only officially supported ways to do so.
+
 # Inclusivity 🙌
 We want everyone to feel included in our community. In particular, nobody should ever feel excluded on the basis of their:
 
