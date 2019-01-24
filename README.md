@@ -1,5 +1,5 @@
 # Code of Conduct
-Slack Code of Conduct
+###Slack Code of Conduct
 
 
 The Monzo User Slack is a place where Monzo users should feel welcome and included to share their opinions. And while it should be used for differing opinions, we also want to ensure people always feel safe 👍
@@ -21,7 +21,7 @@ A note on politics: Political discussions are not banned, but we don't tolerate 
 
 # Our Shared Values ☀️
 
-### You agree that:
+#### You agree that:
 
   * We are collectively and individually committed to safety and inclusivity.
   * We have zero tolerance for abuse, harassment, or discrimination.
@@ -30,13 +30,13 @@ A note on politics: Political discussions are not banned, but we don't tolerate 
   * We avoid using offensive topics as a form of humor.
   * We do not suggest or speculate on ways of breaking the law, or the security measures of Monzo and other banks.
 
-### We actively work towards:
+#### We actively work towards:
 
   * Being a safe community.
   * Cultivating a network of support and encouragement for each other.
   * Encouraging responsible and varied forms of expression.
 
-### We condemn:
+#### We condemn:
 
   * Stalking or publishing private information (‘doxxing)
   * Threats of harm or harassment.
