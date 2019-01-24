@@ -66,11 +66,11 @@ You can alert us by writing @mods in the chat.
 
 If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know as soon as possible.
 
-James Sherlock - @James Sherlock
-Cameron Chalmers - @Cameron
-James Billingham - @James Billingham
-Tom - @Tom M 
-Mat - @Mathew 
+- James Sherlock - @James Sherlock
+- Cameron Chalmers - @Cameron
+- James Billingham - @James Billingham
+- Tom - @Tom M 
+- Mat - @Mathew 
 
 Anything you share with moderators will be held in confidence. So please don’t hesitate in coming forward.
 
