@@ -8,6 +8,8 @@ Please be aware that the mods are volunteering their own time to try and ensure 
 
 The purpose of this document is to outline the community values - what we do, and don’t, stand for - and the measures we take to protect them.
 
+This community is in no way endorsed by Monzo. The use of the Monzo flair is only to be used by Monzo staff (should they choose to be part of the community) and is not to be used to mislead other members of the community in anyway.
+
 # Inclusivity 🙌
 We want everyone to feel included in our community. In particular, nobody should ever feel excluded on the basis of their:
 
