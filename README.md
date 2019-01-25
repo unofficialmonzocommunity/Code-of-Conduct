@@ -34,7 +34,7 @@ A note on politics: Political discussions are not banned, but we don't tolerate 
   * We respect people’s boundaries and identities.
   * We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
   * We avoid using offensive topics as a form of humor.
-  * We do not suggest or speculate on ways of breaking the law, or the security measures of Monzo and other banks.
+  * We do not suggest or speculate on ways of breaking the law. We encourage the practice of [responsibly disclosing](https://www.bugcrowd.com/resource/what-is-responsible-disclosure/) security vulnerabilities.
 
 #### We actively work towards:
 
