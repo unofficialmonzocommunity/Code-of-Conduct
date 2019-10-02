@@ -77,7 +77,6 @@ If you experience abuse, harassment, discrimination, or feel unsafe, let a moder
 - Cameron Chalmers - @Cameron
 - James Billingham - @James Billingham
 - Tom Mannall - @Tom M 
-- Matt Chapman - @Mathew 
 - Phillip Baker - @PhilB
 
 Anything you share with moderators will be held in confidence. So please don’t hesitate in coming forward.
